@@ -12,7 +12,7 @@
 
 <br><br>
 
-<a href="SEU_PORTFOLIO">
+<a href="https://portfolio-amv7.albertomanueldomingos7.workers.dev/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge"/>
 </a>
 
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:albertomanueldomingos7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
