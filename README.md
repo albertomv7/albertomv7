@@ -99,17 +99,7 @@ Estou sempre aprendendo novas tecnologias e buscando criar soluções de alta qu
 
 ---
 
-# 📈 Estatísticas
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=albertomv7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertomv7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 Sequência de Contribuições
 
