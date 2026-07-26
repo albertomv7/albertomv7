@@ -121,15 +121,7 @@ Estou sempre aprendendo novas tecnologias e buscando criar soluções de alta qu
 
 ---
 
-# 🏆 GitHub
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=albertomv7&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
 
 # 🌍 Objetivos
 
