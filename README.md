@@ -101,15 +101,7 @@ Estou sempre aprendendo novas tecnologias e buscando criar soluções de alta qu
 
 
 
-# 🔥 Sequência de Contribuições
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=albertomv7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📊 Atividade
 
