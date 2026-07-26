@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:38BDF8&text=Alberto%20MV%20Domingos&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55"/>
+
 
 <br>
 
