@@ -4,11 +4,11 @@
 
 <div align="center">
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:38BDF8&text=Alberto%20MV%20Domingos&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Laravel;PHP+%7C+Next.js+%7C+MySQL;Sempre+aprendendo+e+construindo+novas+soluções."/>
+
 
 <br><br>
 
